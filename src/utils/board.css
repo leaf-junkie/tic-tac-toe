@@ -1,0 +1,11 @@
+.square {
+    width: 10rem;
+    height: 10rem;
+    display: inline-block;
+    margin: 0 auto;
+    cursor: pointer;
+    border: 1px solid #888;
+    borderRadius: 5;
+    boxShadow: 0 3px 5px 2px #ebebeb;
+    opacity: 0.65;
+}
