@@ -4,6 +4,8 @@ Just your typical game of tic tac toe, but with mongoose (mongeese?) instead of 
 
 RTT was created using React and React Bootstrap. 
 
+You can play the game here: https://rikki-tikki-takki.herokuapp.com/
+
 ---------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
